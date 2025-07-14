@@ -1,15 +1,10 @@
 {
-  "unified_data_url": "https://raw.githubusercontent.com/aymandevx/try/f7505758bf4f57c0cfe3ce44246e89337d40dc0b/Create%20mycatg.json",
-  "version": "1.0.0",
-  "force_update": true,
-  "maintenance_mode": false,
-  "last_updated": "2025-01-27T12:00:00Z",
   "admob_config": {
-    "ads_enabled": false,
-    "banner_ads_enabled": false,
-    "interstitial_ads_enabled": false,
+    "ads_enabled": true,
+    "banner_ads_enabled": true,
+    "interstitial_ads_enabled": true,
     "rewarded_ads_enabled": true,
-    "test_mode": false,
+    "test_mode": true,
     "app_id": "ca-app-pub-5755501173992734~1117086951",
     "ad_unit_ids": {
       "production": {
