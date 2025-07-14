@@ -1,0 +1,299 @@
+{
+  "gameData": {
+    "title": "Grow a Garden Companion Guide (2025)",
+    "description": "This guide is a complete, up-to-date reference for Grow a Garden, including all pets, eggs, crops, mutations, and shop info. All data is sourced from the official Grow a Garden Calculator Wiki and related resources. All images are direct links for easy app integration.",
+    "dailyNews": {
+      "title": "Daily News",
+      "coverImage": "https://cdn.artstation.com/assets/covers/daily_news_garden.jpg",
+      "articles": [
+        {
+          "title": "Prehistoric Update is LIVE!",
+          "date": "July 5, 2025",
+          "content": "The much-anticipated Prehistoric Update (1.13.0) has arrived! The event introduces a roaring new set of challenges and rewards. Players can now trade their existing pets for a chance to get powerful new Dinosaur pets like the T-Rex and Raptor. Complete the Prehistoric quest line to earn epic items, including the new Bone Blossom seed, which is more profitable than the Candy Blossom. The update also brings back the old seed shop, adds new traveling merchants, and introduces the 'Sandy' and multi-stage 'Amber' mutations. Get ready to dig into history!",
+          "source": "https://www.pcgamesn.com/grow-a-garden/update-schedule"
+        },
+        {
+          "title": "Summer Event Continues with Traveling Merchant",
+          "date": "July 6, 2025",
+          "content": "Even with the Prehistoric event in full swing, summer isn't over yet! The Summer Traveling Merchant has been spotted appearing every four hours. This is a great chance for players who missed out on summer-exclusive crops like the Rafflesia, Prickly Pear, and Pitcher Plant to get them before they're gone again. Check the merchant's stock regularly!",
+          "source": "https://gamerant.com/grow-a-garden-complete-pre-historic-event-update-guide/"
+        }
+      ]
+    },
+    "dailyTipsAndTricks": {
+      "title": "Daily Tips & Tricks",
+      "coverImage": "https://cdn.artstation.com/assets/covers/tips_and_tricks_garden.jpg",
+      "tips": [
+        {
+          "title": "Focus on Multi-Harvest Seeds Early",
+          "content": "After you've earned a few hundred Sheckles from Carrots, switch to multi-harvest crops like Strawberries (50 Sheckles). They keep producing fruit without needing to be replanted, dramatically increasing your income over time and saving you money on seeds."
+        },
+        {
+          "title": "Sprinklers are a Top Priority",
+          "content": "They might seem expensive, but you should buy a Basic Sprinkler (25,000 Sheckles) as soon as you can afford it. The boost to growth speed and fruit size means you'll earn back your investment very quickly with larger, more valuable harvests."
+        },
+        {
+          "title": "Stack Your Mutations",
+          "content": "Don't forget that mutations can stack! A crop that gets a 'Wet' (x2) mutation during rain and also a 'Gold' (x20) mutation will have its value multiplied by 40. Strategically placing valuable crops under sprinklers during specific weather events can lead to massive profits."
+        },
+        {
+          "title": "Complete Your Daily Quests",
+          "content": "Always check in with Eloise at the Gear Shop for your three daily quests. Completing them rewards you with Seed Packs, which are one of the only ways to obtain certain exclusive crops like the Pineapple."
+        },
+        {
+          "title": "Feed Your Pets for Better Traits",
+          "content": "Pets need to be fed to gain XP and age up. As they age, their unique abilities become more powerful. An older pet provides significantly better bonuses than a new one, so keep them happy and fed!"
+        }
+      ]
+    },
+    "crops": {
+      "description": "Crops are the main way to earn money. Plant seeds, wait for them to grow, and harvest them for a profit. Rarer crops take longer to grow but yield much higher rewards. Use pets, gear, and mutations to maximize your profits.",
+      "list": [
+        {
+          "name": "Carrot",
+          "category": "Crop",
+          "rarity": "Common",
+          "baseSellPrice": 20,
+          "value_sheckle": 20,
+          "tier": "Common",
+          "multiHarvest": false,
+          "multi_harvest": "",
+          "howToObtain": "Seed Shop",
+          "how_to_obtain": "Always available in the Seed Shop for 20 Sheckles",
+          "imageUrl": "https://www.growagardencalculator.com/Images/carrot.webp",
+          "image": "https://www.growagardencalculator.com/Images/carrot.webp",
+          "description_short": "A common crop costing 20 S. It is single-harvest and always available.",
+          "description_long": "Carrot is the most basic crop in Grow a Garden. Perfect for beginners to learn the basics of planting and harvesting. While not very profitable, it's essential for early game progression.",
+          "usage_tips": "Plant carrots in your first garden to learn the basics. Harvest quickly and replant to build up initial funds."
+        },
+        {
+          "name": "Tomato",
+          "category": "Crop",
+          "rarity": "Rare",
+          "baseSellPrice": 30,
+          "value_sheckle": 30,
+          "tier": "Rare",
+          "multiHarvest": true,
+          "multi_harvest": "✓",
+          "howToObtain": "Seed Shop, Seed Pets",
+          "how_to_obtain": "Available in Seed Shop or from pet abilities",
+          "imageUrl": "https://www.growagardencalculator.com/Images/tomato.webp",
+          "image": "https://www.growagardencalculator.com/Images/tomato.webp",
+          "description_short": "A rare crop costing 30 S. It is multi-harvest and obtainable.",
+          "description_long": "Tomato is a reliable multi-harvest crop that provides steady income. Each plant continues producing tomatoes after the initial harvest.",
+          "usage_tips": "Great for sustained income. Plant in rows and harvest regularly for consistent profits."
+        },
+        {
+          "name": "Avocado",
+          "category": "Crop",
+          "rarity": "Legendary",
+          "baseSellPrice": 5000,
+          "value_sheckle": 5000,
+          "value_robux": 419,
+          "tier": "Legendary",
+          "multiHarvest": true,
+          "multi_harvest": "✓",
+          "howToObtain": "Seed Shop, Summer Traveling Merchant",
+          "how_to_obtain": "Has a low chance to appear in the Seed Shop for 5,000 S or 419 R$, or obtained via Lucky Harvests and certain pet steals such as Red Fox or Snail.",
+          "imageUrl": "https://static.wikia.nocookie.net/growagarden/images/a/a1/Avocadocrop.png",
+          "image": "https://static.wikia.nocookie.net/growagarden/images/a/a1/Avocadocrop.png",
+          "description_short": "A legendary crop costing 5,000 S (419 Robux). It is multi-harvest and currently obtainable.",
+          "description_long": "Avocado is a Legendary multi-harvest tree added in the 2025 Summer Harvest Event. Each harvest drops tiered oval fruits, and the tree's height scales with age, letting mature specimens carry large clusters of high-value produce.",
+          "usage_tips": "Plant Avocados in a staggered 4×4 grid to avoid leaf clipping. Pair with Toucan for +1.6× fruit size and Flamingo to burst-grow tight clusters."
+        },
+        {
+          "name": "Banana",
+          "category": "Crop",
+          "rarity": "Legendary",
+          "baseSellPrice": 7000,
+          "value_sheckle": 7000,
+          "value_robux": 459,
+          "tier": "Legendary",
+          "multiHarvest": true,
+          "multi_harvest": "✓",
+          "howToObtain": "Exotic Seed Pack, Seed Shop",
+          "how_to_obtain": "0.8% pull from Exotic Seed Pack or rare Seed Shop listing (65,000 S).",
+          "imageUrl": "https://static.wikia.nocookie.net/growagarden/images/5/55/BananaTreePic.png",
+          "image": "https://static.wikia.nocookie.net/growagarden/images/5/55/BananaTreePic.png",
+          "description_short": "A legendary crop costing 7,000 S (459 Robux). It is multi-harvest and currently obtainable.",
+          "description_long": "Banana is a Legendary multi-harvest tropical tree introduced during the 2025 Easter Event and later re-stocked for Summer Harvest. Bright yellow cubes grow in hands of 3-5, making Bananas a solid passive money earner.",
+          "usage_tips": "Combine with Toucan and Starfish pets for size/XP stacking; place sprinklers to prevent over-growth that hides clusters."
+        }
+      ]
+    },
+    "pets": {
+      "description": "Pets are collectible companions hatched from eggs. Each pet has a unique ability that helps your garden, from boosting crop growth to duplicating seeds or applying rare mutations. Pets are divided into rarity tiers. You can equip up to 8 pets at once, and their abilities stack for powerful effects.",
+      "rarities": {
+        "common": [
+          {
+            "name": "Starfish",
+            "rarity": "Common",
+            "imageUrl": "https://static.wikia.nocookie.net/growagarden/images/6/62/StarfishIcon.webp",
+            "ability": "Gains +5.85 XP/sec (scales with age)",
+            "usageGuide": "Great for passive XP gain; always useful in early game.",
+            "howToObtain": "Common Summer Egg (50%)"
+          },
+          {
+            "name": "Bunny",
+            "rarity": "Common",
+            "imageUrl": "https://static.wikia.nocookie.net/growagarden/images/6/6b/BunnyPet.png",
+            "ability": "Eats carrot/chocolate carrot every 40s, auto-sells for 1.5x value",
+            "usageGuide": "Use with carrot-heavy gardens for easy profit.",
+            "howToObtain": "Common Egg"
+          },
+          {
+            "name": "Dog",
+            "rarity": "Common",
+            "imageUrl": "https://static.wikia.nocookie.net/growagarden/images/2/29/DogPet.png",
+            "ability": "Every 60s, 5% chance to dig up random seed from Seed Shop",
+            "usageGuide": "Good for passive seed income.",
+            "howToObtain": "Common Egg"
+          }
+        ],
+        "uncommon": [
+          {
+            "name": "Bee",
+            "rarity": "Uncommon",
+            "imageUrl": "https://static.wikia.nocookie.net/growagarden/images/f/f2/Beee.png",
+            "ability": "Every ~25min, applies 'Pollinated' mutation to nearby fruit",
+            "usageGuide": "Use to boost mutation rates; best with mutation-focused gardens.",
+            "howToObtain": "Bee Egg"
+          },
+          {
+            "name": "Chicken",
+            "rarity": "Uncommon",
+            "imageUrl": "https://static.wikia.nocookie.net/growagarden/images/5/51/Chicken_Pet_V2.png",
+            "ability": "Passively increases egg hatch speed by ~10%",
+            "usageGuide": "Essential for egg hatching strategies.",
+            "howToObtain": "Uncommon Egg"
+          }
+        ],
+        "rare": [
+          {
+            "name": "Monkey",
+            "rarity": "Rare",
+            "imageUrl": "https://static.wikia.nocookie.net/growagarden/images/8/85/Monkey_Pet_V2.png",
+            "ability": "2.5% chance to refund a fruit on selling (lower for rare fruits)",
+            "usageGuide": "Use for extra fruit profits.",
+            "howToObtain": "Rare Egg"
+          },
+          {
+            "name": "Rooster",
+            "rarity": "Rare",
+            "imageUrl": "https://static.wikia.nocookie.net/growagarden/images/2/2c/Rooster.png",
+            "ability": "Passively increases egg hatch speed by ~20%",
+            "usageGuide": "Stack with Chicken for fast hatching.",
+            "howToObtain": "Rare Egg"
+          }
+        ]
+      }
+    },
+    "eggs": {
+      "title": "Eggs Guide",
+      "description": "Complete guide to all eggs in Grow a Garden, including prices, pets, and hatch times.",
+      "list": [
+        {
+          "name": "Common Egg",
+          "price": "50,000 Sheckles / 19 Robux",
+          "pets": ["Golden Lab", "Dog", "Bunny"],
+          "hatchTime": "10 min"
+        },
+        {
+          "name": "Uncommon Egg",
+          "price": "150,000 Sheckles / 39 Robux",
+          "pets": ["Black Bunny", "Chicken", "Cat", "Deer"],
+          "hatchTime": "20 min"
+        },
+        {
+          "name": "Rare Egg",
+          "price": "600,000 Sheckles / 89 Robux",
+          "pets": ["Orange Tabby", "Spotted Deer", "Pig", "Rooster", "Monkey"],
+          "hatchTime": "2 hr"
+        },
+        {
+          "name": "Legendary Egg",
+          "price": "3,000,000 Sheckles / 129 Robux",
+          "pets": ["Cow", "Silver Monkey", "Sea Otter", "Turtle", "Polar Bear"],
+          "hatchTime": "4 hr"
+        },
+        {
+          "name": "Mythical Egg",
+          "price": "8,000,000 Sheckles / 119 Robux",
+          "pets": ["Grey Mouse", "Brown Mouse", "Squirrel", "Red Giant Ant", "Red Fox"],
+          "hatchTime": "5 hr 7 min"
+        },
+        {
+          "name": "Bug Egg",
+          "price": "50,000,000 Sheckles / 149 Robux",
+          "pets": ["Snail", "Giant Ant", "Caterpillar", "Praying Mantis", "Dragonfly"],
+          "hatchTime": "8 hr"
+        },
+        {
+          "name": "Bee Egg",
+          "price": "18 Honey / 129 Robux",
+          "pets": ["Bee", "Honey Bee", "Bear Bee", "Petal Bee", "Queen Bee"],
+          "hatchTime": "4 hr 10 min"
+        },
+        {
+          "name": "Night Egg",
+          "price": "25,000,000 Sheckles or from Blood Moon Event",
+          "pets": ["Hedgehog", "Mole", "Frog", "Echo Frog", "Night Owl", "Raccoon"],
+          "hatchTime": "4 hr 10 min"
+        },
+        {
+          "name": "Dinosaur Egg",
+          "price": "Trade random pets to Graham at the event platform.",
+          "pets": ["Raptor", "Triceratops", "Stegosaurus", "Pterodactyl", "Brontosaurus", "T-Rex"],
+          "hatchTime": "Unknown"
+        }
+      ]
+    },
+    "guides": {
+      "title": "Game Guides",
+      "description": "Comprehensive guides to help you master Grow a Garden",
+      "categories": [
+        {
+          "title": "Beginner's Guide",
+          "description": "Everything you need to know to get started",
+          "content": "Start with carrots to learn the basics, then move to multi-harvest crops like tomatoes. Save up for your first sprinkler as soon as possible."
+        },
+        {
+          "title": "Pet Strategy Guide",
+          "description": "How to effectively use pets to boost your garden",
+          "content": "Focus on pets that complement your farming strategy. Use Chicken and Rooster for faster egg hatching, or Bee for mutation boosts."
+        },
+        {
+          "title": "Mutation Guide",
+          "description": "Understanding and maximizing crop mutations",
+          "content": "Mutations can dramatically increase crop value. Stack different mutation types for maximum profit. Weather-based mutations are particularly powerful."
+        },
+        {
+          "title": "Economy Guide",
+          "description": "Maximizing your Sheckles and Robux",
+          "content": "Focus on multi-harvest crops for sustained income. Complete daily quests for seed packs. Invest in sprinklers and pets for long-term growth."
+        }
+      ]
+    },
+    "weather": {
+      "title": "Weather System",
+      "description": "Weather affects crop growth and mutations",
+      "types": [
+        {
+          "name": "Sunny",
+          "effect": "Normal growth rate, no special mutations",
+          "duration": "Variable"
+        },
+        {
+          "name": "Rainy",
+          "effect": "Enables 'Wet' mutation (2x value), faster growth",
+          "duration": "15-30 minutes"
+        },
+        {
+          "name": "Blood Moon",
+          "effect": "Special event weather, enables rare mutations and pets",
+          "duration": "Limited time event"
+        }
+      ]
+    }
+  }
+}
