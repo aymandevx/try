@@ -1,8 +1,8 @@
 {
   "admob_config": {
-    "ads_enabled": false,
-    "banner_ads_enabled": false,
-    "interstitial_ads_enabled": false,
+    "ads_enabled": true,
+    "banner_ads_enabled": true,
+    "interstitial_ads_enabled": true,
     "rewarded_ads_enabled": true,
     "test_mode": true,
     "app_id": "ca-app-pub-5755501173992734~1117086951",
