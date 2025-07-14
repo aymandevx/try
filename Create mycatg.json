@@ -1,14 +1,15 @@
 {
   "metadata": {
     "version": "v17.2",
-    "last_updated": "2025-06-27",
+    "last_updated": "2025-01-27",
     "extraction_date": "2025-06-27",
     "source_file": "grow_a_garden_full_guide_v17 2.json",
     "total_entries": 236,
     "crop_count": 139,
     "guide_count": 13,
     "data_quality": "Complete dataset with detailed descriptions, values, and usage tips",
-    "description": "Comprehensive Grow a Garden game data including all crops and guides"
+    "description": "Comprehensive Grow a Garden game data including all crops and guides",
+    "pet_count": 84
   },
   "crops": [
     {
@@ -2229,5 +2230,930 @@
     "obtainable_count": 42,
     "multi_harvest_count": 69,
     "single_harvest_count": 70
-  }
+  },
+  "pets": [
+    {
+      "name": "Axolotl",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/0/0f/AxolotlIcon.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Axolotl",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Axolotl is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Bear Bee",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/8/8b/Bearbeee1.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Bear_Bee",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Bear Bee is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Bee",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/f/f2/Beee.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Bee",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Bee is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Black Bunny",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/e/ec/Black_bunny_icon.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Black_Bunny",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Black Bunny is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Blood Hedgehog",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/9/95/Blood_Hedgehog_Icon.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Blood_Hedgehog",
+      "passives": [
+        {
+          "title": "Sanguine Spike",
+          "description": "Makes prickly fruit have increased variant chance and grow bigger"
+        }
+      ],
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Blood Hedgehog is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Blood Kiwi",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/7/79/Blood_Kiwi_Icon.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Blood_Kiwi",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Blood Kiwi is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Blood Owl",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/0/00/Blood_Owl_Icon.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Blood_Owl",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Blood Owl is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Brown Mouse",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/8/86/BrownMouse.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Brown_Mouse",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Brown Mouse is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Bunny",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/6/6b/BunnyPet.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Bunny",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Bunny is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Butterfly",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/1/18/Thy_Butterfly_V2.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Butterfly",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Butterfly is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Capybara",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/1/12/CapybaraIIcon.webp",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Capybara",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Capybara, the chill legend of the wetlands, is a **Legendary** Paradise pet. **“Hot Spring Aura”** nullifies hunger drain and grants +3.43 XP/s to pets within 18 studs, turning your farm into an AFK‑friendly levelling spa.",
+      "how_to_obtain": "Paradise Egg (21 % chance).",
+      "usage_tips": "• Anchor a Capybara near your pet cluster before lengthy AFK sessions to avoid hunger‑penalties.  \n• Works exceptionally well with **Starfish** XP stacking."
+    },
+    {
+      "name": "Cat",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/8/89/Catpet.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Cat",
+      "passives": [
+        {
+          "title": "Cat Nap",
+          "description": "Cat naps in a random spot in your farm, emitting an aura that boosts nearby fruit size"
+        }
+      ],
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Cat is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Caterpillar",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/3/3d/Caterpillar_Icon.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Caterpillar",
+      "passives": [
+        {
+          "title": "Leaf Lover Passive",
+          "description": "Boosts nearby Leafy plants growth rate"
+        }
+      ],
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Caterpillar is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Chicken",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/5/51/Chicken_Pet_V2.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Chicken",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Chicken is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Chicken Zombie",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/b/be/Chicken_Zombie_Icon.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Chicken_Zombie",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Chicken Zombie is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Cooked Owl",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/5/56/CookedOwl.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Cooked_Owl",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Cooked Owl is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Cow",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/8/84/Cow.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Cow",
+      "passives": [
+        {
+          "title": "Milk of the Land",
+          "description": "Fertilizing aura that boosts nearby plant growth speed"
+        }
+      ],
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Cow is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Crab",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/b/b9/CrabIcon.webp",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Crab",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "The Crab is a cheeky **Common** Summer pet. Its **“Pinch Pocket”** trait fires every ~6 minutes, stealing 260–460 S from a random nearby player and depositing it into your wallet. The steal amount scales slightly with the Crab’s age. While not game‑breaking, a party of Crabs can passively fund early‑game seed purchases.",
+      "how_to_obtain": "Hatch from a **Common Summer Egg** with a ~25 % chance.",
+      "usage_tips": "• Works best on public servers with many players; each target must be within 25 studs.  \n• Stolen coins don’t trigger combat flags, so it’s PvE‑safe.  \n• Equip *Lucky Clover* gear to raise your coin cap and avoid hitting the wallet limit."
+    },
+    {
+      "name": "Deer",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/2/27/Deer.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Deer",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Deer is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Disco Bee",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/f/f2/DiscoBeeIcon.gif",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Disco_Bee",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Disco Bee is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Dog",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/2/29/DogPet.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Dog",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Dog is a **Common** starter pet that can dig up low‑tier vegetable seeds (Carrot, Broccoli, Tomato) every 5 minutes. While its loot table is basic, multiple Dogs can supply endless fodder for Lucky Harvest rolls.",
+      "how_to_obtain": "Free starter pet from Tutorial or hatch Common Egg (33 %).",
+      "usage_tips": "• Keep a Dog in your loadout to eliminate seed costs on early quests.  \n• Replace with Red Fox once focusing on high‑value crops.",
+      "description_long_cite": "turn2search12",
+      "how_to_obtain_cite": "turn2search12"
+    },
+    {
+      "name": "Doge",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/4/47/Placeholder.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Doge",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Doge is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Dragonfly",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/c/c9/DragonflyIcon.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Dragonfly",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Dragonfly is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Echo Frog",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/3/30/Echo_frog.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Echo_Frog",
+      "passives": [
+        {
+          "title": "Echo Croak",
+          "description": "Will occasionally advance a nearby plant's growth by 24 hours"
+        }
+      ],
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Echo Frog is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Egg Rarity In Pet Eggs Shop (06",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/0/0d/Obraz_2025-06-21_193227941.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Egg_Rarity_In_Pet_Eggs_Shop_(06",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Egg Rarity In Pet Eggs Shop (06 is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Fennec Fox",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/e/e8/FennecFoxIcon.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Fennec_Fox",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Fennec Fox is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Firefly",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/c/cd/Again.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Firefly",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Firefly is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Flamingo",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/e/ec/FlamingoIcon.webp",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Flamingo",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "The Flamingo is a **Rare** Summer pet whose trait triggers a 14‑second, 16× growth speed aura for all plants within 13 studs every 240 s. This burst growth makes it the go‑to pet for speed‑running harvest quests or pushing daily profit caps.",
+      "how_to_obtain": "Found in the **Rare Summer Egg** at ~16.7 % hatch chance.",
+      "usage_tips": "• Build a compact 10×10 crop patch around the Flamingo to ensure full coverage.  \n• Sync multiple Flamingos for nearly constant acceleration (global cooldowns are independent).  \n• Great in conjunction with **Grow All** gamepass to insta‑pop fully‑grown fields."
+    },
+    {
+      "name": "Frog",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/5/55/FrogV2.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Frog",
+      "passives": [
+        {
+          "title": "Croak",
+          "description": "Will occasionally advance a nearby plant's growth by 24 hours"
+        }
+      ],
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Frog is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Giant Ant",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/4/46/GiantAntImage.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Giant_Ant",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Giant Ant is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Glitched Pet Feeding Prompt",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/9/91/Glitched_Pet_Feeding_Prompt.jpg",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Glitched_Pet_Feeding_Prompt",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Glitched Pet Feeding Prompt is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Golden Bee",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/e/e8/GoldenBee.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Golden_Bee",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Golden Bee is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Golden Lab",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/f/f3/GoldenLabPet.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Golden_Lab",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Golden Lab is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Grey Mouse",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/8/88/GreyMouse.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Grey_Mouse",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Grey Mouse is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Hamster",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/c/c5/HamsterIcon.webp",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Hamster",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Hamster is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Hedgehog",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/4/46/HedgehogPet.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Hedgehog",
+      "passives": [
+        {
+          "title": "Prickly Lover",
+          "description": "Makes prickly fruit grow bigger"
+        }
+      ],
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Hedgehog is an **Uncommon** pet introduced in the Lunar Glow Event. Its passive periodically grants prickly fruits (Cactus, Durian, Pineapple, Dragon Fruit and others) a **1.51× size bonus**. The effect stacks linearly, making multiple Hedgehogs a budget alternative to size‑aura pets. citeturn0search2turn0search5",
+      "how_to_obtain": "Hatch from **Lunar Egg** (33 % chance) sold for 3 000 S or in Seed Shop Pet rotation.",
+      "usage_tips": "• Equip 5 Hedgehogs during overnight AFK cactus farms for exponential size gains.  \n• Buff applies even when offline."
+    },
+    {
+      "name": "Honey Bee",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/1/14/HoneyBee.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Honey_Bee",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Honey Bee is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Hyacinth Macaw",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/7/77/HyacinthMacawIcon.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Hyacinth_Macaw",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Hyacinth Macaw is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Jandel_Monkey",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/4/47/Placeholder.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Jandel_Monkey",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Jandel_Monkey is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Kiwi",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/e/ea/Kiwi.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Kiwi",
+      "value_sheckle": 10000,
+      "value_robux": 529,
+      "tier": "Mythical",
+      "multi_harvest": "✓",
+      "description_short": "A mythical pet costing 10,000 S (529 Robux). It is multi‑harvest and currently unobtainable.",
+      "description_long": "Kiwi is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Meerkat",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/4/47/Placeholder.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Meerkat",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Meerkat is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Mimic Octopus",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/0/00/MimicOctopusIcon.webp",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Mimic_Octopus",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "The Mimic Octopus is an ultra‑rare **Legendary** Paradise pet (1 % chance) that copies another random equipped pet every 19.56 seconds, performing its trait once. Its mimicry respects cooldowns but picks the lowest remaining timer, effectively multiplying your strongest ability.",
+      "how_to_obtain": "Paradise Egg – 1 % hatch rate; budget 100‑150 eggs for a statistically safe pull.",
+      "usage_tips": "• Slot only top‑tier pets while running Mimic; weak traits dilute its pool.  \n• Keep a **Peacock** to lower the Mimic copy interval further.  \n• Great in co‑op farming: Mimic can copy other players’ pets if you stand near them."
+    },
+    {
+      "name": "Mole",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/6/63/Mole.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Mole",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Mole is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Monkey",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/8/85/Monkey_Pet_V2.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Monkey",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Monkey is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Moon Cat",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/e/ee/Moon_Cat.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Moon_Cat",
+      "passives": [
+        {
+          "title": "Moon Nap",
+          "description": "Moon Cat naps in a random spot in your farm, and boosts nearby fruit size"
+        },
+        {
+          "title": "Moon Harvest",
+          "description": "Grants chance for Night type plants to replant when harvested"
+        }
+      ],
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Moon Cat is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Moth",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/0/09/Moth.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Moth",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Moth is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Night Owl",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/0/07/Night_Owl_Icon.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Night_Owl",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Night Owl is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Orange Tabby",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/7/73/Orange_tabby_icon.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Orange_Tabby",
+      "passives": [
+        {
+          "title": "Orange Tabby",
+          "description": "Orange Tabby naps in a random spot in your farm, emitting an aura that boosts nearby fruit size"
+        }
+      ],
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Orange Tabby is a **Rare** pet introduced in the Animal Update. Its trait lets it nap every 90 s; after each 15‑s nap, any new fruit within 15 studs spawns 1.5× larger, stacking with size buffs.",
+      "how_to_obtain": "Hatch from **Rare Egg** (33.33 % chance) purchased at Pet Shop for 4 250 S or via trading.",
+      "usage_tips": "• Equip 3 Orange Tabbies in orchards to mass‑buff fruit size.  \n• Cooldowns are independent so overlapping naps can chain.",
+      "description_long_cite": "turn10view0",
+      "how_to_obtain_cite": "turn10view0"
+    },
+    {
+      "name": "Orangutan",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/4/47/OrangutanIcon.webp",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Orangutan",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "The Orangutan is a crafty **Rare** pet with the **“Thrifty Builder”** trait: every time you craft fertiliser or equipment there is a 3.6 % chance the material ingredients are not consumed. This makes it a must‑have during large crafting sessions such as sprinkler spam or market‑stall batches.",
+      "how_to_obtain": "Obtain from a **Rare Summer Egg** at roughly 4 % odds.",
+      "usage_tips": "• Run multiple Orangutans when mass‑crafting to push effective savings beyond 15 %.  \n• Combine with **Seal** when recycling crafted gear for maximum economy."
+    },
+    {
+      "name": "Ostrich",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/8/82/OstrichIcon.webp",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Ostrich",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "The Ostrich is a **Legendary** Paradise pet that accelerates pet ageing. Its trait **“Sand Incubation”** grants +1–4.66 bonus age to every new pet you hatch. This slashes the grind time to unlock advanced passives and makes synergy pets like Sea Turtle viable faster.",
+      "how_to_obtain": "Hatch from a **Paradise Egg** (≈40 % chance). Paradise Eggs cost 4 500 000 S or 199 ✧.",
+      "usage_tips": "• Start sessions by equipping an Ostrich, hatching your eggs, then swapping it out once the age bump is applied.  \n• Age bonus stacks additively with the **Baby Bottle** gamepass."
+    },
+    {
+      "name": "Owl",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/4/46/Owlpng.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Owl",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Owl is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Pack Bee",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/f/fe/PackBee.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Pack_Bee",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Pack Bee is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Panda",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/9/94/PandaPet.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Panda",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Panda is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Peacock",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/6/61/Peacock.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Peacock",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "The Peacock is a **Legendary** Paradise pet whose flamboyant display every 9.57 min reduces all your other pets’ cooldowns by 60.9 seconds. The effect chains, so running multiple Peacocks can nearly halve global cooldowns across your squad.",
+      "how_to_obtain": "Paradise Egg hatch – 30 % chance.",
+      "usage_tips": "• Pair with cooldown‑heavy pets like **Mimic Octopus** and **Queen Bee** for exponential uptime.  \n• Ideal for public‑server farming events where every second counts."
+    },
+    {
+      "name": "Pet UI Informations not loading correctly Egg Rarity In Pet Eggs Shop (22.06.2025)",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/3/3f/What_is_that.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Pet_UI_Informations_not_loading_correctly_Egg_Rarity_In_Pet_Eggs_Shop_(22.06.2025)",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Pet UI Informations not loading correctly Egg Rarity In Pet Eggs Shop (22.06.2025) is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Petal Bee",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/5/52/Petalbee.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Petal_Bee",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Petal Bee is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Pig",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/8/82/Pig_no_back.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Pig",
+      "passives": [
+        {
+          "title": "Fertilizer Frenzy",
+          "description": "Occasionally releases a fertilizing AOE boosting plant size and mutation chance"
+        }
+      ],
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Pig is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Player reaching the current pet limit",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/5/52/Pet_Limit.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Player_reaching_the_current_pet_limit",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Player reaching the current pet limit is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Polar Bear",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/2/25/Polarbear.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Polar_Bear",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Polar Bear is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Praying Mantis",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/2/25/PrayingMantis.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Praying_Mantis",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Praying Mantis is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Queen Bee (Pet)",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/7/7a/Queen_bee.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Queen_Bee_(Pet)",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Queen Bee (Pet) is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Raccoon",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/7/7c/Raccoon.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Raccoon",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Raccoon is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Racoon",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/7/73/Racoon.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Racoon",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Racoon is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Red Dragon",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/6/6e/RedDragonRender.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Red_Dragon",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Red Dragon is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Red Fox",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/d/d5/RedFox.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Red_Fox",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "The Red Fox is a **Rare** pet whose trait **“Rascal”** steals seeds from any plant you harvest, with a base 6 % chance that scales up to 14 % at age 50. Stolen seeds skip daily shop limits, making Red Fox a cornerstone for rare‑seed farming.",
+      "how_to_obtain": "Hatch from **Rare Egg** (25 % chance) sold at Pet Shop for 4 250 S.",
+      "usage_tips": "• Equip two or more Red Foxes while harvesting expensive trees (Coconut, Cacao) to duplicate seeds.  \n• Cooldowns stack with Queen Bee resets for nearly continuous seed steals.",
+      "description_long_cite": "turn1search20",
+      "how_to_obtain_cite": "turn1search20"
+    },
+    {
+      "name": "Red Giant Ant",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/c/c8/RedGiantAntImage.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Red_Giant_Ant",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Red Giant Ant is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Rooster",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/2/2c/Rooster.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Rooster",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Rooster is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Sand Snake",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/a/a4/SandSnakeIcon.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Sand_Snake",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Sand Snake is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Scarlet Macaw",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/2/21/ScarletMacawIcon.webp",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Scarlet_Macaw",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "The Scarlet Macaw is a striking **Legendary** whose **“Verdant Whisper”** passive rolls a 16.25 % chance every 11.48 min to apply the lucrative **Verdant mutation** (×2 sell value) to a random harvest in range.",
+      "how_to_obtain": "Paradise Egg – 8 % hatch probability.",
+      "usage_tips": "• Stand in the center of your highest‑value single‑harvest tree grove to maximise mutation ROI.  \n• Buff stacks additively with Wet from Sea Turtle for colossal gains."
+    },
+    {
+      "name": "Sea Otter",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/c/c3/Sea_Otter.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Sea_Otter",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Sea Otter is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Sea Turtle",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/a/ad/SeaTurtleIcon.webp",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Sea_Turtle",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "The Sea Turtle is a defensive **Rare** Summer pet famed for two passives. **“Shell Share”** grants ~1000 XP to a random pet every 10 minutes, while **“Water Splash”** can confer the **Wet** mutation (×2 sell value) to a random fruit every 118 s with a 10 % proc chance. Combined, these abilities make the Sea Turtle a hybrid levelling and profit booster.",
+      "how_to_obtain": "Hatch from a **Rare Summer Egg** (33 % odds). Rare Summer Eggs cost 2 500 000 S or 129 ✧.",
+      "usage_tips": "• Place the Turtle near your most expensive single‑harvest plots (e.g., Dragon Fruit) to maximise Wet mutations.  \n• Stack with **Sprinkler** gear to keep affected soil damp and boost growth speed.  \n• Best XP partner for *Ostrich*; the extra age boost multiplies the Turtle’s splash range."
+    },
+    {
+      "name": "Seagull",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/5/59/SeagullIcon.webp",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Seagull",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "The Seagull is a **Common** Summer pet whose trait **“Scavenger”** lets any plant you shovel have a chance to drop its own seed. This makes it a free, self‑replicating seed generator especially effective on high‑value crops like Strawberry or Tomato that you re‑plant frequently. The chance scales with age (max ≈19 %).",
+      "how_to_obtain": "Hatch from a **Common Summer Egg** (≈25 % chance).",
+      "usage_tips": "• Use five mature Seagulls while clearing a Strawberry field to recover 15‑50 extra seeds per minute.  \n• Doesn’t trigger on limited‑event fruits (e.g., Candy Blossom), so swap it out during those events.  \n• Pairs nicely with **Seal** to refund eggs when you sell duplicates."
+    },
+    {
+      "name": "Seal",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/f/f9/SealIcon.webp",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Seal",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "The Seal is a playful **Rare** pet whose passive **“Re‑Egg”** gives any pet you sell a 2.4 % chance to refund the egg directly to your inventory. Over hundreds of hatches this refund snowballs into huge savings, effectively discounting hunting for mythics.",
+      "how_to_obtain": "Incubate a **Rare Summer Egg**; Seal’s hatch rate is ~10 %.",
+      "usage_tips": "• Keep a Seal equipped while mass‑selling duplicate pets to recoup Rare eggs.  \n• Stack two Seals for ~4.7 % effective refund chance."
+    },
+    {
+      "name": "Silver Monkey",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/a/a7/Silvermonkey.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Silver_Monkey",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Silver Monkey is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Snail",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/d/d2/Snail_Icon.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Snail",
+      "passives": [
+        {
+          "title": "Slow and Steady",
+          "description": "Increased lucky harvest chance"
+        }
+      ],
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "The Snail is an **Uncommon** pet famous for its passive **“Slow & Steady”** which has a 2 % chance every 40 s to dig up a random seed from the soil. While the spawn is random, weight scales with soil quality, making fertile farms more lucrative.",
+      "how_to_obtain": "Hatch from **Common Egg** (14 % chance) or purchased from NPC Greg for 650 S.",
+      "usage_tips": "• Leave Snails idle in large orchards; they work while you focus elsewhere.  \n• Combining 5 Snails increases pulls to ~15 seeds per hour.",
+      "description_long_cite": "turn2search11",
+      "how_to_obtain_cite": "turn2search11"
+    },
+    {
+      "name": "Spotted Deer",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/3/38/Spotteddeer.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Spotted_Deer",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Spotted Deer is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Squirrel",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/9/93/Squirrel_Icon.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Squirrel",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Squirrel is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Starfish",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/6/62/StarfishIcon.webp",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Starfish",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "The Starfish is a **Common** pet introduced in the 2025 Summer Harvest update. It is obtained by hatching a *Common Summer Egg* (20‑minute hatch time) with an estimated 50 % pull chance. Its passive **“Steady Growth”** grants +5.85 XP per second to every plot you own, scaling +0.085 XP each time the Starfish ages up. Because the XP bonus stacks when you equip multiple Starfish, they are widely used for bulk levelling low-tier pets and crops during early‑game grinding sessions. *Tip:* Combine three Starfish with a Seal or Peacock to reduce cooldown downtime and maximise XP/hour.",
+      "how_to_obtain": "Purchase a **Common Summer Egg** from the Event kiosk for 1 000 000 S or 29 ✧ (Robux). Equip the egg and wait 20 minutes until it hatches.",
+      "usage_tips": "• Equip up to three Starfish alongside a Sea Turtle to gain both XP and Wet mutations simultaneously.  \n• Ideal for ‘Level 50 Pet’ daily quest: one fresh Starfish ages from 0→50 in ~90 minutes if you stay active harvesting.  \n• XP buff also speeds up **Farmhand Bee** evolution quests because XP ≡ growth for pets."
+    },
+    {
+      "name": "Tarantula Hawk",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/7/78/The_Tarantula_Hawk.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Tarantula_Hawk",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Tarantula Hawk is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "The shop where pets/pet eggs are sold",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/e/e3/Pet_Egg_stand.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/The_shop_where_pets/pet_eggs_are_sold",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "The shop where pets/pet eggs are sold is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Toucan",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/1/10/ToucanIcon.webp",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Toucan",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "The Toucan is a **Rare** Summer pet prized for its vibrant beak and its trait **“Tropical Boost.”** Every 8 minutes it grants a 1.6× size multiplier and a 1.1× variant‑chance boost to all tropical crops (Banana, Coconut, Mango, Cantaloupe, etc.) within a 25‑stud radius for 90 seconds. This makes late‑game tropical farms significantly more profitable.",
+      "how_to_obtain": "Hatch from a **Rare Summer Egg** (≈25 % probability).",
+      "usage_tips": "• Cluster your highest‑value tropical trees around the Toucan.  \n• Use with **Flamingo** for near‑permanent double buffs.  \n• Works in private servers; size bonus stacks additively with fertilizer."
+    },
+    {
+      "name": "Turtle",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/b/b1/Turtle_icon.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Turtle",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Turtle is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Wasp",
+      "category": "Pet",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/f/f8/The_Wasp.png",
+      "wiki_url": "https://growagarden.fandom.com/wiki/Wasp",
+      "description_short": "A unknown pet costing ? S (? Robux). It is single‑harvest and currently unobtainable.",
+      "description_long": "Wasp is a crop/pet/craftable in Grow a Garden. Auto‑scraped placeholder description populated 2025-06-27.",
+      "how_to_obtain": "Auto‑scraped: obtain details pending manual enrichment.",
+      "usage_tips": "Auto‑scraped: tips pending manual enrichment."
+    },
+    {
+      "name": "Queen Bee",
+      "category": "Pet",
+      "tier": "Legendary",
+      "image": "https://static.wikia.nocookie.net/growagarden/images/1/1f/QueenBeeIcon.webp",
+      "description_long": "The Queen Bee is a **Divine** pet added in the Bizzy Bee Event update. Her trait **“For the Queen”** instantly refreshes the cooldown of other equipped pets every 9 minutes, effectively chaining powerful auras like Flamingo or Scarlet Macaw. She has 65 000 hunger and the highest rarity in the Bee Egg. citeturn0search1turn0news25",
+      "how_to_obtain": "Hatch from the **Bee Egg** for 129 ✧ or 18 Tokens with a 1 % chance. Bee Egg sold at Event kiosk during Bizzy Bee patch.",
+      "usage_tips": "• Equip Queen Bee plus 3 cooldown‑heavy pets to maintain near‑permanent buffs.  \n• Works in stacks: two Queens alternate cooldown resets, giving almost 100 % uptime.",
+      "description_short": "Legendary pet",
+      "obtainable": "✓"
+    }
+  ]
 }
