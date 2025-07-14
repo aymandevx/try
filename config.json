@@ -5,7 +5,7 @@
   "maintenance_mode": false,
   "last_updated": "2025-01-27T12:00:00Z",
   "admob_config": {
-    "ads_enabled": false,
+    "ads_enabled": true,
     "banner_ads_enabled": true,
     "interstitial_ads_enabled": true,
     "rewarded_ads_enabled": true,
