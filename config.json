@@ -1,0 +1,31 @@
+{
+  "unified_data_url": "https://raw.githubusercontent.com/aymandevx/try/f7505758bf4f57c0cfe3ce44246e89337d40dc0b/Create%20mycatg.json",
+  "version": "1.0.0",
+  "force_update": false,
+  "maintenance_mode": false,
+  "last_updated": "2025-01-27T12:00:00Z",
+  "admob_config": {
+    "ads_enabled": true,
+    "banner_ads_enabled": true,
+    "interstitial_ads_enabled": true,
+    "rewarded_ads_enabled": true,
+    "ad_unit_ids": {
+      "android": {
+        "banner_id": "ca-app-pub-3940256099942544/6300978111",
+        "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+        "rewarded_id": "ca-app-pub-3940256099942544/5224354917"
+      },
+      "ios": {
+        "banner_id": "ca-app-pub-3940256099942544/2934735716",
+        "interstitial_id": "ca-app-pub-3940256099942544/4411468910",
+        "rewarded_id": "ca-app-pub-3940256099942544/1712485313"
+      }
+    },
+    "ad_frequency": {
+      "interstitial_interval_seconds": 60,
+      "banner_refresh_seconds": 30,
+      "rewarded_cooldown_seconds": 300
+    },
+    "test_mode": false
+  }
+}
