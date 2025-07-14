@@ -6,9 +6,9 @@
   "last_updated": "2025-01-27T12:00:00Z",
   "admob_config": {
     "ads_enabled": false,
-    "banner_ads_enabled": true,
-    "interstitial_ads_enabled": true,
-    "rewarded_ads_enabled": true,
+    "banner_ads_enabled": false,
+    "interstitial_ads_enabled": false,
+    "rewarded_ads_enabled": false,
     "test_mode": true,
     "app_id": "ca-app-pub-5755501173992734~1117086951",
     "ad_unit_ids": {
