@@ -1,11 +1,11 @@
 {
   "unified_data_url": "https://raw.githubusercontent.com/aymandevx/try/f7505758bf4f57c0cfe3ce44246e89337d40dc0b/Create%20mycatg.json",
   "version": "1.0.0",
-  "force_update": false,
+  "force_update": true,
   "maintenance_mode": false,
   "last_updated": "2025-01-27T12:00:00Z",
   "admob_config": {
-    "ads_enabled": true,
+    "ads_enabled": false,
     "banner_ads_enabled": true,
     "interstitial_ads_enabled": true,
     "rewarded_ads_enabled": true,
